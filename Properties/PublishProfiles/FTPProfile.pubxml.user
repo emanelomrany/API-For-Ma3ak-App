@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAthtjc8nq2k6pHl5p9NRByQAAAAACAAAAAAAQZgAAAAEAACAAAADMI6iIZHp841YvVyw0bdq66jChO2MQFMhjrASHpX9eTQAAAAAOgAAAAAIAACAAAAAVse4jENN3/h80f5rb2QY3PvZThOut/z4hj5mqEpkapiAAAABLztdpOVjCHt0brpikr/gstUVeFmvQ+pSmgUgmGN43X0AAAABhy98kjRX83zFvhSWOge1SfagsDvyeo77sipXLUgh3TxzrlwxCVC0VuySke8k9nwkHZ7ej/yJSrUa59oedhkIu</EncryptedPassword>
+    <_PublishTargetUrl>ftp://Ma3akApi.backup.somee.com/Ma3akApi_MSSql_Database_Backup</_PublishTargetUrl>
+    <History>False|2024-05-01T23:48:30.9869373Z;False|2024-05-02T02:43:51.5623498+03:00;False|2024-05-02T02:42:15.7581551+03:00;False|2024-05-02T02:16:16.5317116+03:00;False|2024-05-02T02:09:02.9415484+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

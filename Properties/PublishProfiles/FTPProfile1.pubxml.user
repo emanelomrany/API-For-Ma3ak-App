@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAthtjc8nq2k6pHl5p9NRByQAAAAACAAAAAAAQZgAAAAEAACAAAAAxAmLPFauaS8OXAPNpeoZNUonoAFaN8svdb5E17DqE0QAAAAAOgAAAAAIAACAAAAAcWpAbPzBsmk2A/ucJyIairOAsQFW0RSYieGJSjGVotyAAAAA/2Wzv9xI9qwAtcl6fO9NAn/D/MRSxUNk86MGm3BL+i0AAAABMnIDvX8l11jhQnNvkkCBTQwYVYpoCzE3RNJu4Cm4WhP1yI0vaC8RiYj+ajUORatAzFNs3+5laurzzJB7ln35D</EncryptedPassword>
+    <History>False|2024-05-02T00:19:04.6078046Z;</History>
+    <LastFailureDetails />
+    <_PublishTargetUrl>ftp://Ma3akApi.backup.somee.com/Ma3akApi_MSSql_Database_Backup</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Azure.Core.dll">
+      <publishTime>09/07/2023 20:50:30</publishTime>
+    </File>
+    <File Include="Ma3ak.deps.json">
+      <publishTime>05/02/2024 03:10:06</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll">
+      <publishTime>03/21/2024 01:36:06</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
